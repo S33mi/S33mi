@@ -1,4 +1,51 @@
-## Hi there 👋 loading...
+## Hi there 👋
+
+
+Data enthusiast and researcher | Turning past work into open, reproducible projects  
+
+"Just trying to do great things" — one simulation, notebook, and optimization at a time.
+
+
+
+### 🔧 Background & Key Projects
+
+- **IoT Routing Simulations** — RPL-based experiments in Contiki-Cooja (energy, latency analysis, modified code & setups) → [iot-routing-contiki](https://github.com/S33mi/iot-routing-contiki) (BSD-3-Clause)
+
+- **Intelligent 2D Packing Optimization** — Heuristics & metaheuristics (Genetic Algorithm, Simulated Annealing, Cuckoo Search, NFP, Bottom-Left-Fill) for irregular nesting → [intelligent-optimization](https://github.com/S33mi/intelligent-optimization) (MIT)
+
+- **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅
+
+
+
+More coming soon: credit fraud anomaly detection, paper reimplementations, and data analysis notebooks.
+
+
+
+### 🛠️ Skills Snapshot
+
+Python · NS-3/Contiki/Cooja · Network Simulation · Optimization Algorithms · Data Analysis · Jupyter · Anomaly Detection · C++ · C basics
+
+
+
+### 🚀 Currently Exploring
+
+Bridging networking/simulations with data pipelines, fraud detection, and frontier AI (daily Grok user & prompt tinkerer).
+
+
+
+Fun unrelated note: Professionally bad at tennis 🎾 → casual thoughts on X: [@Seemi_Rauf](https://x.com/Seemi_Rauf)
+
+
+
+Open to Data Analyst, Business Analyst, or interesting collaborations.  
+
+📫 X: [@Seemi_Rauf](https://x.com/Seemi_Rauf)
+
+
+
+Feel free to star, fork, or reach out — let's build something useful! 🌟
+
+
 
 <!--
 **S33mi/S33mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
