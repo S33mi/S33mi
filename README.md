@@ -15,9 +15,10 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅
 
+- **Paper Reimplementations** — Previously reimplemented research papers. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations)
 
 
-More coming soon: credit fraud anomaly detection, paper reimplementations, and data analysis notebooks.
+More coming soon: credit fraud anomaly detection, more on paper reimplementations, and data analysis notebooks.
 
 
 
