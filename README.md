@@ -17,8 +17,10 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Paper Reimplementations** — Previously reimplemented research papers. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations)
 
+- **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics)
 
-More coming soon: credit fraud anomaly detection, more on paper reimplementations, and data analysis notebooks.
+
+More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
 
 
 
