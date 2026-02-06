@@ -19,6 +19,8 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics)
 
+- **Climate & Sustainable Cities** — Data explorations on environmental trends and urban sustainability → [climate-sustainable-cities](https://github.com/S33mi/climate-sustainable-cities)
+
 
 More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
 
