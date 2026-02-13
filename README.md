@@ -13,13 +13,15 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Intelligent 2D Packing Optimization** — Heuristics & metaheuristics (Genetic Algorithm, Simulated Annealing, Cuckoo Search, NFP, Bottom-Left-Fill) for irregular nesting → [intelligent-optimization](https://github.com/S33mi/intelligent-optimization) (MIT)
 
-- **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅
+- **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅 (MIT)
 
-- **Paper Reimplementations** — Previously reimplemented research papers. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations)
+- **Paper Reimplementations** — Previously reimplemented research papers. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
 
-- **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics)
+- **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics) (MIT)
 
-- **Climate & Sustainable Cities** — Data explorations on environmental trends and urban sustainability → [climate-sustainable-cities](https://github.com/S33mi/climate-sustainable-cities)
+- **Climate & Sustainable Cities** — Data explorations on environmental trends and urban sustainability → [climate-sustainable-cities](https://github.com/S33mi/climate-sustainable-cities](https://github.com/S33mi/climate-urban-sustainability) 🌱 (MIT)
+
+- **Know Your Style** — Fashion & clothing data explorations (EDA on categories, prices, brands, ratings) → [know-your-style](https://github.com/S33mi/know-your-style) (MIT)
 
 
 More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
