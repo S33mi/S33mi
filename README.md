@@ -21,7 +21,7 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Climate & Sustainable Cities** — Data explorations on environmental trends and urban sustainability → [climate-sustainable-cities](https://github.com/S33mi/climate-sustainable-cities](https://github.com/S33mi/climate-urban-sustainability) 🌱 (MIT)
 
-- **Know Your Style** — Fashion & clothing data explorations (EDA on categories, prices, brands, ratings) → [know-your-style](https://github.com/S33mi/know-your-style) (MIT)
+- **Know Your Style** — Fashion-MNIST EDA + CNN classification (~90-92% accuracy) → [know-your-style](https://github.com/S33mi/know-your-style) (MIT)
 
 
 More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
