@@ -23,6 +23,8 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Know Your Style** — Fashion-MNIST EDA + CNN classification (~90-92% accuracy) → [know-your-style](https://github.com/S33mi/know-your-style) (MIT)
 
+- **Daily Motivation + Tennis Tips Agent** — Fun Python agent with free quotes API & tennis tips → [daily-motivation-tennis-fun](https://github.com/S33mi/daily-motivation-tennis-fun) (MIT)
+
 
 More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
 
@@ -30,7 +32,7 @@ More coming soon: JP Morgan python training for Bussiness Analysts, more on pape
 
 ### 🛠️ Skills Snapshot
 
-Python · NS-3/Contiki/Cooja · Network Simulation · Optimization Algorithms · Data Analysis · Jupyter · Anomaly Detection · C++ · C basics
+Python · NS-3/Contiki/Cooja · Network Simulation · Optimization Algorithms · Machine Learning · Deep Learning· Data Analysis · Jupyter · Anomaly Detection · C++ · C basics
 
 
 
