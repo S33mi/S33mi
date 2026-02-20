@@ -15,7 +15,7 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅 (MIT)
 
-- **Paper Reimplementations** — Previously reimplemented research papers. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
+- **Paper Reimplementations** — Previously reimplemented research papers during my PhD. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
 
 - **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics) (MIT)
 
