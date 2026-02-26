@@ -13,7 +13,7 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 
 - **Intelligent 2D Packing Optimization** — Heuristics & metaheuristics (Genetic Algorithm, Simulated Annealing, Cuckoo Search, NFP, Bottom-Left-Fill) for irregular nesting → [intelligent-optimization](https://github.com/S33mi/intelligent-optimization) (MIT)
 
-- **English & Turkish Grammar Notes** — Personal handwritten PDFs for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅 (MIT)
+- **English & Turkish Grammar Notes** — Personal handwritten PDFs 📚 for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅 (MIT)
 
 - **Paper Reimplementations** — Previously reimplemented research papers during my PhD. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
 
@@ -29,6 +29,15 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
 
 
+
+### 🔗 Learning & External Training
+
+- Completing JPMorgan Chase Python Training for Business Analysts & Traders  
+
+  Fork & notes: [jpmc-python-training-notes](https://github.com/S33mi/jpmc-python-training-notes)  
+
+  (Numerical computing, data viz, financial examples)
+  
 
 ### 🛠️ Skills Snapshot
 
