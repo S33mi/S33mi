@@ -28,15 +28,17 @@ Data enthusiast and researcher | Turning past work into open, reproducible proje
 - **Financial News Mining** — Sentiment analysis & stock correlation → [financial-news-mining](https://github.com/S33mi/financial-news-mining) (MIT)
 
 
-More coming soon: JP Morgan python training for Bussiness Analysts, more on paper reimplementations, and data analysis notebooks.
+More coming soon: ~~JP Morgan python training for Bussiness Analysts~~ **(publicaly avaibale now)**, more on paper reimplementations, and data analysis notebooks.
 
 
 
 ### 🔗 Learning & External Training
 
-- Completing JPMorgan Chase Python Training for Business Analysts & Traders  
+- Completed JPMorgan Chase Python Training for Business Analysts & Traders  
 
-  Fork & notes: [jpmc-python-training-notes](https://github.com/S33mi/jpmc-python-training-notes)  
+  Fork & notes: [jpmc-python-training-notes](https://github.com/S33mi/jpmc-python-training-notes)
+  
+  Personalized notebooks : [personalized-notebooks](https://github.com/S33mi/jpmc-python-training-notes/blob/main/personalized-notebooks/README.md)
 
   (Numerical computing, data viz, financial examples)
   
