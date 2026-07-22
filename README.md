@@ -9,7 +9,7 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 
 ### 🔧 Background & Key Projects
 
-**Data Analysis & Machine Learning**
+**📊 🤖 Data Analysis & Machine Learning**
 
 - **Credit Fraud Analytics** — Analysis of credit card transaction data for fraud detection using anomaly detection techniques → [credit-fraud-analytics](https://github.com/S33mi/credit-fraud-analytics) (MIT)
 
@@ -22,7 +22,7 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 - **Paper Reimplementations** — Previously reimplemented research papers during my PhD. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
 
 
-**Systems & Optimization**
+**⚙️ 🖧 Systems & Optimization**
 
 - **Data Center Networks** — TCP performance simulations using NS-3 → [research-development-data-center-networks](https://github.com/S33mi/research-development-data-center-networks) (BSD-2-Clause)
 
@@ -31,12 +31,12 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 - **Intelligent 2D Packing Optimization** — Heuristics & metaheuristics (Genetic Algorithm, Simulated Annealing, Cuckoo Search, NFP, Bottom-Left-Fill) for irregular nesting → [intelligent-optimization](https://github.com/S33mi/intelligent-optimization) (MIT)
   
 
-**Finance & Business Python**
+**💰 💼 Finance & Business Python**
 
 - **JPMorgan Chase Python Training** — Personalized fork with extensions and notes → [jpmc-python-training-notes](https://github.com/S33mi/jpmc-python-training-notes)
 
 
-**Other Explorations**
+**🌌 ✨ Other Explorations**
 
 - **Climate & Sustainable Cities** — Data explorations on environmental trends and urban sustainability → [climate-sustainable-cities](https://github.com/S33mi/climate-urban-sustainability) 🌱 (MIT)
 
