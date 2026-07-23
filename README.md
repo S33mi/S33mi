@@ -73,7 +73,7 @@ Python · C++ · C basics · MATLAB · Pandas · Scikit-learn · TensorFlow/Kera
 - Prompt engineering with Grok
 - Real-world applications in fintech, sustainability, and fashion analytics
 
-
+Thoughtful note: I am not perfect → [CV of Failures](https://github.com/S33mi/S33mi/blob/main/CV-of-Failures.md)
 
 Fun unrelated note: Professionally bad at tennis 🎾 → casual thoughts on X: [@Seemi_Rauf](https://x.com/Seemi_Rauf)
 
