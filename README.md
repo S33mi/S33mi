@@ -20,7 +20,7 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 - **Machine Learning Journey** — Coursework implementations (CS-567, CS-667) and experiments → [machine-learning-journey](https://github.com/S33mi/machine-learning-journey) (MIT)
 
 - **Paper Reimplementations** — Previously reimplemented research papers during my PhD. Starting with DataPrep.EDA EDA tools → [paper-reimplementations](https://github.com/S33mi/paper-reimplementations) (MIT)
-
+-------------------------------------------------------------------------------------
 
 **⚙️ 🖧 Systems & Optimization**
 
@@ -29,12 +29,12 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 - **IoT Routing Simulations** — RPL-based experiments in Contiki-Cooja (energy, latency analysis, modified code & setups) → [iot-routing-contiki](https://github.com/S33mi/iot-routing-contiki) (BSD-3-Clause)
 
 - **Intelligent 2D Packing Optimization** — Heuristics & metaheuristics (Genetic Algorithm, Simulated Annealing, Cuckoo Search, NFP, Bottom-Left-Fill) for irregular nesting → [intelligent-optimization](https://github.com/S33mi/intelligent-optimization) (MIT)
-  
+--------------------------------------------------------- 
 
 **💰 💼 Finance & Business Python**
 
 - **JPMorgan Chase Python Training** — Personalized fork with extensions and notes → [jpmc-python-training-notes](https://github.com/S33mi/jpmc-python-training-notes)
-
+--------------------------------------------------------------------------
 
 **🌌 ✨ Other Explorations**
 
@@ -43,7 +43,7 @@ I'm a data enthusiast and researcher | Turning past work into open, reproducible
 - **Daily Motivation + Tennis Tips Agent** — Fun Python agent with free quotes API & tennis tips → [daily-motivation-tennis-fun](https://github.com/S33mi/daily-motivation-tennis-fun) (MIT)
 
 - **English & Turkish Grammar Notes** — Personal handwritten PDFs 📚 for tenses, cases, structures & differences (self-study fun) → [English-and-Turkish-Language-Grammar-Notes](https://github.com/S33mi/English-and-Turkish-Language-Grammar-Notes) 😅 (MIT)
-
+-------------------------------------------------------------------------------------
 
 More coming soon: ~~JP Morgan python training for Bussiness Analysts~~ **(publicly available now)**, more on paper reimplementations, and data analysis notebooks.
 
